@@ -1,0 +1,1 @@
+# prime-nuber-using-for-loop-and-while-loop
